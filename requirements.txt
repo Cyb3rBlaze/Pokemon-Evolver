@@ -1,0 +1,7 @@
+torch
+torchvision
+tqdm
+piqa
+tensorflow
+matplotlib
+git+https://github.com/tensorflow/examples.git
